@@ -1,0 +1,27 @@
+{
+  "name": "utftables",
+  "version": "1.0.0",
+  "description": "Tiny utility module for outputting barebones table-formatted arrays for CLI tools with no dependencies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jabyrd/utftables.git"
+  },
+  "keywords": [
+    "cli",
+    "tables",
+    "tools",
+    "render",
+    "table",
+    "utf"
+  ],
+  "author": "Jordan Byrd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jabyrd/utftables/issues"
+  },
+  "homepage": "https://github.com/jabyrd/utftables#readme"
+}
