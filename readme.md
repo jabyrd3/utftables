@@ -1,5 +1,5 @@
 # tiny table tool
-![table](https://https://raw.githubusercontent.com/jabyrd3/utftables/demo.png)
+![table](https://github.com/jabyrd3/utftables/raw/master/demo.png)
 ```
 const table = require('utftables');
 
