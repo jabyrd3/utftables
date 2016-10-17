@@ -1,6 +1,6 @@
 {
   "name": "utftables",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tiny utility module for outputting barebones table-formatted arrays for CLI tools with no dependencies.",
   "main": "index.js",
   "scripts": {
